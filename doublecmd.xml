@@ -146,7 +146,7 @@
       <Width>1446</Width>
       <Height>969</Height>
       <PixelsPerInch>120</PixelsPerInch>
-      <Maximized>False</Maximized>
+      <Maximized>True</Maximized>
       <Splitter>50</Splitter>
     </Position>
   </MainWindow>
@@ -231,7 +231,7 @@
   </Tools>
   <Fonts>
     <Main>
-      <Name>Tahoma</Name>
+      <Name>Segoe UI</Name>
       <Size>9</Size>
       <Style>0</Style>
       <Quality>1</Quality>
@@ -496,16 +496,19 @@
         <ActiveTab>0</ActiveTab>
         <Tab>
           <FileView Type="columns">
-            <Sortings>
-              <Sorting>
-                <Direction>1</Direction>
-                <Function>12</Function>
-              </Sorting>
-            </Sortings>
             <History>
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
-                <Paths/>
+                <Paths>
+                  <Path Filename="doublecmd.help">C:\Program Files\Double Commander\</Path>
+                  <Path Filename="Double Commander">C:\Program Files\</Path>
+                  <Path Filename="Users">C:\</Path>
+                  <Path Filename="phuho">C:\Users\</Path>
+                  <Path Filename="MEGA - Shortcut.lnk">C:\Users\phuho\</Path>
+                  <Path Filename="Mes fichiers de dialogue en ligne">C:\Users\phuho\Documents\MEGA\</Path>
+                  <Path Filename="..">C:\Users\phuho\Documents\MEGA\Mes fichiers de dialogue en ligne\</Path>
+                  <Path Filename="Mes fichiers de dialogue en ligne">C:\Users\phuho\Documents\MEGA\</Path>
+                </Paths>
               </Entry>
             </History>
             <ColumnsView>
@@ -521,7 +524,9 @@
             <History>
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
-                <Paths/>
+                <Paths>
+                  <Path Filename="..">C:\Program Files\Double Commander\</Path>
+                </Paths>
               </Entry>
             </History>
             <ColumnsView>
@@ -810,9 +815,9 @@
           <Width>45</Width>
           <Align>0</Align>
           <Font>
-            <Name>Tahoma</Name>
+            <Name>Segoe UI</Name>
             <Size>9</Size>
-            <Style>0</Style>
+            <Style>1</Style>
             <Quality>0</Quality>
           </Font>
           <TextColor>15263976</TextColor>
@@ -833,9 +838,9 @@
           <Width>88</Width>
           <Align>0</Align>
           <Font>
-            <Name>Tahoma</Name>
+            <Name>Segoe UI</Name>
             <Size>9</Size>
-            <Style>0</Style>
+            <Style>1</Style>
             <Quality>0</Quality>
           </Font>
           <TextColor>15263976</TextColor>
@@ -856,9 +861,9 @@
           <Width>175</Width>
           <Align>0</Align>
           <Font>
-            <Name>Tahoma</Name>
+            <Name>Segoe UI</Name>
             <Size>9</Size>
-            <Style>0</Style>
+            <Style>1</Style>
             <Quality>0</Quality>
           </Font>
           <TextColor>15263976</TextColor>
@@ -879,9 +884,9 @@
           <Width>125</Width>
           <Align>0</Align>
           <Font>
-            <Name>Tahoma</Name>
+            <Name/>
             <Size>9</Size>
-            <Style>0</Style>
+            <Style>1</Style>
             <Quality>0</Quality>
           </Font>
           <TextColor>15263976</TextColor>
